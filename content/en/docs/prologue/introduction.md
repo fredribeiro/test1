@@ -13,7 +13,7 @@ weight: 100
 toc: true
 ---
 
-## Get started
+## Get started Picote
 
 There are two main ways to get started with Doks:
 
